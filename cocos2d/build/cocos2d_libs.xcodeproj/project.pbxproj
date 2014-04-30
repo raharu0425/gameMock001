@@ -16,8 +16,6 @@
 				A03F31FF178147CB006731B9 /* PBXTargetDependency */,
 				A03F2FC01781458C006731B9 /* PBXTargetDependency */,
 				A03F2E93178141D1006731B9 /* PBXTargetDependency */,
-				A03F2E95178141D1006731B9 /* PBXTargetDependency */,
-				A03F2E97178141D1006731B9 /* PBXTargetDependency */,
 			);
 			name = "build all libs Mac";
 			productName = "build-all";
@@ -1806,20 +1804,6 @@
 			proxyType = 1;
 			remoteGlobalIDString = 1551A33E158F2AB200E66CFE;
 			remoteInfo = cocos2dx;
-		};
-		A03F2E94178141D1006731B9 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 1551A336158F2AB200E66CFE /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = A03F2B781780BD04006731B9;
-			remoteInfo = chipmunk;
-		};
-		A03F2E96178141D1006731B9 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 1551A336158F2AB200E66CFE /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = A03F2D5D1780BDF7006731B9;
-			remoteInfo = box2d;
 		};
 		A03F2FBF1781458C006731B9 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -7063,16 +7047,6 @@
 			isa = PBXTargetDependency;
 			target = 1551A33E158F2AB200E66CFE /* cocos2dx Mac */;
 			targetProxy = A03F2E92178141D1006731B9 /* PBXContainerItemProxy */;
-		};
-		A03F2E95178141D1006731B9 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = A03F2B781780BD04006731B9 /* chipmunk Mac */;
-			targetProxy = A03F2E94178141D1006731B9 /* PBXContainerItemProxy */;
-		};
-		A03F2E97178141D1006731B9 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = A03F2D5D1780BDF7006731B9 /* box2d Mac */;
-			targetProxy = A03F2E96178141D1006731B9 /* PBXContainerItemProxy */;
 		};
 		A03F2FC01781458C006731B9 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
