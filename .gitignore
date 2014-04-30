@@ -1,0 +1,18 @@
+# Cocos2dx用Ignore
+
+libs/
+bin/
+obj/
+assets/
+.classpath
+.project
+.cproject
+build_*_xcode/
+*.mode*v*
+*.pbxuser
+build/
+.DS_Store
+*.xcscheme
+*.xcworkspacedata
+*.xcuserstate
+xcschememanagement.*
